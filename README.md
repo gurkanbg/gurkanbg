@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gürkan Boğa</h1>
-<h3 align="center">Hey there! I'm Gürkan, a frontend developer with an Electrical Engineering background. I'm passionate about crafting beautiful web experiences using HTML, CSS, and JavaScript, and I'm a big fan of Reactjs. Let's connect and build the future together! 🚀 Feel free to reach out to me at [Your Email Address]; I'm always excited to collaborate and explore new projects! 📩🤝</h3>
+<h3 align="center">Hey there! I'm Gürkan, a frontend developer with an Electrical Engineering background. I'm passionate about crafting beautiful web experiences using HTML, CSS, and JavaScript, and I'm a big fan of Reactjs. Let's connect and build the future together! 🚀 Feel free to reach out to me I'm always excited to collaborate and explore new projects! 📩🤝</h3>
 
 - 🌱 I’m currently learning **Nextjs, Typescript**
 
